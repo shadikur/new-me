@@ -1,0 +1,140 @@
+* {
+  margin: 0;
+  font-family: "Work Sans", sans-serif;
+}
+header {
+  background-image: url("../images/banner/banner2.png");
+  height: 809px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: right;
+  padding-bottom: 5%;
+}
+
+/* Banner Style  */
+.banner-content {
+  padding: 15%;
+}
+.banner-title {
+  font-size: 65px;
+  font-weight: 700;
+  color: #151414;
+}
+.banner-desc {
+  font-weight: 400;
+  font-size: 16px;
+  color: #444343;
+  margin-top: 24px;
+  margin-bottom: 32px;
+}
+.contact-button {
+  color: #ffff;
+  font-weight: 600;
+  font-size: 18px;
+  background-color: #f15b22;
+  border: 0;
+  height: 64px;
+  width: 160px;
+  float: right;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Failure widget style */
+.failure-container {
+  display: flex;
+  margin-top: 130px;
+  justify-content: center;
+  align-items: center;
+  gap: 87px;
+}
+
+.failure-title {
+  color: #151414;
+  font-weight: 700;
+  font-size: 40px;
+}
+.failure-summary {
+  margin-top: 24px;
+  margin-bottom: 16px;
+  color: #444343;
+}
+ul {
+  color: #444343;
+  font-weight: 400;
+  font-size: 16px;
+  list-style: none;
+  margin: 0;
+}
+.checklist {
+}
+
+i {
+  color: #16d887;
+}
+.person {
+  height: 723px;
+  width: 569px;
+}
+
+/* My Plan Widget Style */
+section.my-plan {
+  margin-top: 130px;
+}
+
+.my-plan {
+  margin-top: 50px;
+}
+.plan-wid {
+  display: flex;
+  justify-content: center;
+  gap: 86px;
+  text-align: center;
+  margin-top: 50px;
+}
+.planbox h2 {
+  margin-top: 24px;
+  margin-bottom: 16px;
+}
+.my-plan h1 {
+  margin-bottom: 50px;
+  text-align: center;
+  color: #151414;
+  font-weight: 700;
+  font-size: 40px;
+}
+
+/* Liener Gradient  + Motive box*/
+section.motiv-container {
+  height: 300px;
+  background: linear-gradient(90deg, #f15b22 0%, rgba(241, 91, 34, 0) 100%),
+    url("../images/watch.png");
+  border-radius: 8px;
+  margin: 10% 20%;
+}
+h1.motiv-text {
+  font-size: 40px;
+  font-weight: 700;
+  color: #ffffff;
+  margin-left: 69px;
+  padding-top: 60px;
+}
+button.call-now {
+  margin-top: 24px;
+  margin-left: 69px;
+  width: 160px;
+  height: 64px;
+  border-radius: 5px;
+  background-color: #ffffff;
+  color: #f15b22;
+  font-size: 20px;
+  font-weight: 600;
+  border: 0;
+  cursor: pointer;
+}
+
+/* This is my footer */
+footer{
+    height: 577px;
+    background-color: #151414;
+}
