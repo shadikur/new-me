@@ -1,5 +1,5 @@
 # Preview URL
-<a href="https://shadikur.github.io/new-me/" target="_blank">Preview it on GitHub Page</a>
+<a href="https://shadikur.github.io/new-me/" target="_blank">Preview it on GitHub Page ( https://shadikur.github.io/new-me/ ) </a>
 
 # Screen Shot
 
